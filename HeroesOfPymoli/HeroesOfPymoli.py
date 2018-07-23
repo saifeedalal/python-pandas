@@ -10,6 +10,10 @@
 
 * Amongst all the items, Item ID 178 is the most profitable followed by Item IDs 82 and 145
 
+* Amongst players of various age groups, "<10" and "35-39" are contributing less to the total purchase value because of low headcount and purchases. However, these 2 groups seem to have more purchasing power than any of the other groups. Further research can be done to include/modify some  items that would attract these age groups so that they can contirbute more to the total purchase 
+value
+
+* Item ID 19 - "Pursuit, Cudgel of Necromancy" is one of the top 5 popular items. However, its generating less value (8.16 USD) compared to other 4 top popular items as it is only priced at 1.02 USD. The price for this item can be bumped up a little (in small measured proportions) to generate further value out of it.
 -----
 
 ### Note
